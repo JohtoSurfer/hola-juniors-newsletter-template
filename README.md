@@ -1,5 +1,6 @@
 # hola-juniors-newsletter-template
-first project for hola juniors - email template for newsletter website following modern ui/ux practices and relevant frameworks.
+first project for hola juniors - This is a responsive HTML email template created for a coding challenge.  
+It follows best practices for email compatibility using only HTML tables and inline CSS.
 
 # HTML Email Template – Hola Juniors Challenge
 
@@ -12,17 +13,19 @@ Task is to build a responsive HTML email template using HTML and inline CSS, fol
 ## 🔧 Technologies
 - HTML (table-based layout)
 - Inline CSS (email-safe styling)
-- frameworks: bootstrap
 
 ## 📸 Preview
 _A screenshot of the email design_  
-![Preview](empty)
+![Screenshot](assets/hola-juniors-newsletter-challenge-screenshot.png)
+
+👉 [View on GitHub](https://github.com/JohtoSurfer/hola-juniors-newsletter-template)
 
 ##  GOAL 
 - Create table-based layouts for emails.
 - Apply spacing and typography using inline styles.
 - Best practices for building email-compatible code.
+- read mail chimp guide for email templates.
 
-## 🔗 Resources
-- 
+---
 
+© 2025 – Coded by Luis Barrios
