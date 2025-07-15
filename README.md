@@ -1,6 +1,6 @@
 # hola-juniors-newsletter-template
 first project for hola juniors - This is a responsive HTML email template created for a coding challenge.  
-It follows best practices for email compatibility using only HTML tables and inline CSS.
+I tried to follow some of the best practices for email compatibility using HTML tables and inline CSS.
 
 # HTML Email Template – Hola Juniors Challenge
 
